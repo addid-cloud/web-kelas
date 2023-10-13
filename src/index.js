@@ -1,6 +1,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
-import App from './App'; // Gantilah dengan nama komponen aplikasi Anda
+import App from './App';
+import './index.css' // Gantilah dengan nama komponen aplikasi Anda
 
 const root = document.getElementById('root');
 

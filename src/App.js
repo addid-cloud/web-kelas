@@ -1,9 +1,9 @@
 import React from 'react';
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
-import Navbar from './Navbar';
-import HomePage from './HomePage';
-import Gallery from './galeri';
-import Murid from './anggota';
+import Navbar from './component/Navbar';
+import HomePage from './pages/HomePage';
+import Gallery from './pages/galeri';
+import Murid from './pages/anggota';
 
 import './index.css';
 
